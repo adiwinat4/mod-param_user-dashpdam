@@ -1,0 +1,117 @@
+{
+    "infopelanggan": {
+        "status": true,
+        "sub": {
+            "infotagihan": true,
+            "pengaduan": false,
+            "web": true
+        }
+    },
+    "bacameter": {
+        "status": true,
+        "sub": {
+            "produktivitasbaca": true,
+            "produktivitaspetugas": true
+        }
+    },
+    "hublang": {
+        "status": true,
+        "sub": {
+            "tingkatselesai": true,
+            "pertumbuhanpel": true
+        }
+    },
+    "perencanaan": {
+        "status": true,
+        "sub": {
+            "rabrealisasi": true
+        }
+    },
+    "distribusi": {
+        "status": true,
+        "sub": {
+            "spkbapsambbaru": true,
+            "spkbappemeliharaan": true
+        }
+    },
+    "gudang": {
+        "status": true,
+        "sub": {
+            "stokbarang": true
+        }
+    },
+    "kinerjapelayanan": {
+        "status": true,
+        "sub": {
+            "cakupanpelayananteknis": true,
+            "pertumbuhanpelanggan": true,
+            "tingkatselesaiaduan": true,
+            "kualitasairpelanggan": true,
+            "konsumsiairdomestik": true
+        }
+    },
+    "loket": {
+        "status": true,
+        "sub": {
+            "efisiensipenagihan": true,
+            "tarifratarata": true,
+            "volumeterjual": true,
+            "produktivitasloket": true,
+            "lpp": true
+        }
+    },
+    "akuntansi": {
+        "status": true,
+        "sub": {
+            "neracakomparatif": true,
+            "aruskas": true,
+            "labarugi": true
+        }
+    },
+    "kinerjakeuangan": {
+        "status": true,
+        "sub": {
+            "rentabilitas": true,
+            "likuiditas": true,
+            "solvabilitas": true
+        }
+    },
+    "produksiair": {
+        "status": true,
+        "sub": {
+            "bebanbahankimia": true
+        }
+    },
+    "kinerjaoperasional": {
+        "status": true,
+        "sub": {
+            "efisiensiproduksi": true,
+            "kehilanganair": true,
+            "jamoperasilayanan": true,
+            "tekananair": true,
+            "kalibarsimeter": true
+        }
+    },
+    "pegawai": {
+        "status": true,
+        "sub": {
+            "pegawai": true,
+            "ratiodiklat": true,
+            "ratiobiayadiklat": true
+        }
+    },
+    "manipulasi": {
+        "status": true,
+        "sub": {
+            "penduduk": true,
+            "aspek": true,
+            "user": true
+        }
+    },
+    "IoT": {
+        "status": false,
+        "sub": {
+            "swm": false
+        }
+    }
+}
